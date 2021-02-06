@@ -13,7 +13,6 @@ la minimisation des fonctions coûts avec plusieurs mythodes:
 quelques résultats: 
 
 
-![alt text](https://github.com/Koussailakadi/Optimisation_Python/blob/main/cap1.PNG?raw=true)
 
 ![alt text](https://github.com/Koussailakadi/Optimisation_Python/blob/main/cap2.PNG?raw=true)
 
@@ -22,3 +21,5 @@ quelques résultats:
 ![alt text](https://github.com/Koussailakadi/Optimisation_Python/blob/main/cap4.PNG?raw=true)
 
 ![alt text](https://github.com/Koussailakadi/Optimisation_Python/blob/main/cap5.PNG?raw=true)
+
+![alt text](https://github.com/Koussailakadi/Optimisation_Python/blob/main/cap1.PNG?raw=true)
